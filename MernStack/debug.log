@@ -1,0 +1,15 @@
+[0123/132923.601:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[0123/221412.490:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[0124/131817.089:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[0125/004807.498:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0125/004807.498:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0125/004807.504:ERROR:exception_snapshot_win.cc(99)] thread ID 7256 not found in process
+[0125/004807.504:ERROR:exception_snapshot_win.cc(99)] thread ID 7912 not found in process
+[0125/004807.509:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0125/004807.511:ERROR:exception_snapshot_win.cc(99)] thread ID 8228 not found in process
+[0125/004807.530:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0125/004807.530:ERROR:exception_snapshot_win.cc(99)] thread ID 5256 not found in process
+[0125/004807.535:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0125/004807.536:ERROR:exception_snapshot_win.cc(99)] thread ID 284 not found in process
+[0125/004807.607:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0125/004807.607:ERROR:exception_snapshot_win.cc(99)] thread ID 19100 not found in process
